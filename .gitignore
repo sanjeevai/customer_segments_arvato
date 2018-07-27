@@ -3,3 +3,7 @@
 
 # big data files
 *.csv
+
+# ipynb checkpoints
+
+.ipynb_checkpoints/*

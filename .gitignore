@@ -7,3 +7,7 @@
 # ipynb checkpoints
 
 .ipynb_checkpoints/*
+
+# exports of Data_Dictionary.md
+Data_Dictionary.html
+Data_Dictionary.pdf

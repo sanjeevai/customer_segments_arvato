@@ -11,3 +11,6 @@
 # exports of Data_Dictionary.md
 Data_Dictionary.html
 Data_Dictionary.pdf
+
+# vscode settings
+.vscode/*

@@ -18,7 +18,7 @@
     5. [Submission Evaluation](#submit)
 6. [Arvato: Terms and Conditions](#tnc)
 
-*** 
+***
 
 <a id='intro'></a>
 

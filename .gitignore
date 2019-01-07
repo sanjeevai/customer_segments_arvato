@@ -1,11 +1,10 @@
 # system files
 *DS_Store
 
-# big data files
+# large data files
 *.csv
 
 # ipynb checkpoints
-
 .ipynb_checkpoints/*
 
 # exports of Data_Dictionary.md
